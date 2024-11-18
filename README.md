@@ -150,9 +150,3 @@ The dataset includes features such as property characteristics, host details, an
 - Assign weights to features for improved modeling.
 
 ---
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/airbnb-booking-prediction.git
